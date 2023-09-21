@@ -1,4 +1,3 @@
 from playsound import playsound
-import time
 
-playsound("sound.wav")
+playsound("C:\Users\user\Desktop\python_mini\alarm_clock\alarm.wav")
