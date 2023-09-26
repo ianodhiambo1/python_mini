@@ -1,3 +1,4 @@
+import tkinter as tk
 student_grades={}
 
 def add_student(student_name):
