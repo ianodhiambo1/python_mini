@@ -1,4 +1,5 @@
 import tkinter as tk
+tk.mainloop()
 student_grades={}
 
 def add_student(student_name):
